@@ -3,9 +3,12 @@ body {
     padding: 0;
     background-size: cover;
     font-family: sans-serif;
+    background: url('https://pbs.twimg.com/media/EbQ1oAHXsAIoHUy.jpg:large');
+    overflow: hidden
   }
   
   .box {
+    background: white;
     position: absolute;
     top: 50%;
     left: 50%;
